@@ -1,0 +1,8 @@
+{
+	"id": "BlakeJKR",
+	"name": "Blakeatro",
+	"author": ["RayitoMSF"],
+    "description": "Replaces vanilla Jokers with Blake Izayoi and Touhou related ones",
+    "prefix": "blakejkr",
+    "main_file": "BlakeJkr.lua"
+}
