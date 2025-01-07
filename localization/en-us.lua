@@ -718,7 +718,7 @@ return {
                 },
             },
             j_clever={
-                name="Clever Joker",
+                name="Patchwing",
                 text={
                     "{C:chips}+#1#{} Chips if played",
                     "hand contains",
@@ -744,7 +744,7 @@ return {
                 },
             },
             j_crafty={
-                name="Hong Meiling",
+                name="Skoowing",
                 text={
                     "{C:chips}+#1#{} Chips if played",
                     "hand contains",
@@ -752,7 +752,7 @@ return {
                 },
             },
             j_crazy={
-                name="Crazy Joker",
+                name="Remilia Fumo",
                 text={
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
@@ -775,7 +775,7 @@ return {
                 },
             },
             j_devious={
-                name="Devious Joker",
+                name="Remwing",
                 text={
                     "{C:chips}+#1#{} Chips if played",
                     "hand contains",
@@ -813,7 +813,7 @@ return {
                 },
             },
             j_droll={
-                name="Droll Joker",
+                name="Sakuya Fumo",
                 text={
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
@@ -1117,7 +1117,7 @@ return {
                 },
             },
             j_jolly={
-                name="Jolly Joker",
+                name="Meiling Fumo",
                 text={
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
@@ -1164,7 +1164,7 @@ return {
                 },
             },
             j_mad={
-                name="Mad Joker",
+                name="Patchouli Fumo",
                 text={
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
@@ -1546,7 +1546,7 @@ return {
                 },
             },
             j_sly={
-                name="Sly Joker",
+                name="Meiwing",
                 text={
                     "{C:chips}+#1#{} Chips if played",
                     "hand contains",
@@ -1835,7 +1835,7 @@ return {
                 },
             },
             j_wily={
-                name="Wily Joker",
+                name="Flanwing",
                 text={
                     "{C:chips}+#1#{} Chips if played",
                     "hand contains",
@@ -1863,7 +1863,7 @@ return {
                 },
             },
             j_zany={
-                name="Zany Joker",
+                name="Flandre Fumo",
                 text={
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
