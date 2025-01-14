@@ -769,9 +769,12 @@ return {
             j_delayed_grat={
                 name="YOU HAD BOMBS!",
                 text={
+                    "{C:inactive}Yeah sure, you were definitely",
+                    "{C:inactive}gonna capture that spell card",
                     "Earn {C:money}$#1#{} per {C:attention}discard{} if",
                     "no discards are used",
                     "by end of the round",
+                    
                 },
             },
             j_devious={
@@ -1139,7 +1142,7 @@ return {
                 },
             },
             j_luchador={
-                name="Luchador",
+                name="Bomb",
                 text={
                     "Sell this card to",
                     "disable the current",
@@ -1468,15 +1471,16 @@ return {
                 },
             },
             j_scary_face={
-                name="Scary Face",
+                name="Kogasa Scary Face",
                 text={
+                    "{C:inactive}She's trying her best, okay?",
                     "Played {C:attention}face{} cards",
                     "give {C:chips}+#1#{} Chips",
                     "when scored",
                 },
             },
             j_scholar={
-                name="Scholar",
+                name="Vesper",
                 text={
                     "Played {C:attention}Aces{}",
                     "give {C:chips}+#2#{} Chips",
