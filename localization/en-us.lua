@@ -769,8 +769,7 @@ return {
             j_delayed_grat={
                 name="YOU HAD BOMBS!",
                 text={
-                    "{C:inactive}Yeah sure, you were definitely",
-                    "{C:inactive}gonna capture that spell card",
+                    "{C:inactive}Yeah sure, you were gonna capture that spell card",
                     "Earn {C:money}$#1#{} per {C:attention}discard{} if",
                     "no discards are used",
                     "by end of the round",
@@ -1010,7 +1009,7 @@ return {
                 },
             },
             j_hack={
-                name="Hack",
+                name="Shinmyoumaru",
                 text={
                     "Retrigger",
                     "each played",
@@ -1018,8 +1017,10 @@ return {
                 },
             },
             j_half={
-                name="Half Joker",
+                name="Half Youmu",
                 text={
+                    "{C:inactive}I eated the card sorry",
+                    "{C:inactive}- Yuyuko",
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
                     "{C:attention}#2#{} or fewer cards",
@@ -1100,7 +1101,7 @@ return {
                 },
             },
             j_invisible={
-                name="Invisible Joker",
+                name="Koishi Komeiji",
                 text={
                     "After {C:attention}#1#{} rounds,",
                     "sell this card to",
@@ -1213,7 +1214,7 @@ return {
                 },
             },
             j_merry_andy={
-                name="Merry Andy",
+                name="Clownpiece",
                 text={
                     "{C:red}+#1#{} discards",
                     "each round,",
@@ -1233,7 +1234,7 @@ return {
                 },
             },
             j_mime={
-                name="Mime",
+                name="Mima",
                 text={
                     "Retrigger all",
                     "card {C:attention}held in",
@@ -1541,7 +1542,7 @@ return {
                 },
             },
             j_sixth_sense={
-                name="Sixth Sense",
+                name="Satori Komeiji",
                 text={
                     "If {C:attention}first hand{} of round is",
                     "a single {C:attention}6{}, destroy it and",
@@ -1592,7 +1593,7 @@ return {
                 },
             },
             j_space={
-                name="Space Joker",
+                name="Eirin Yagokoro",
                 text={
                     "{C:green}#1# in #2#{} chance to",
                     "upgrade level of",
@@ -1616,7 +1617,7 @@ return {
                 },
             },
             j_steel_joker={
-                name="Steel Joker",
+                name="Youmu Konpaku",
                 text={
                     "Gives {X:mult,C:white} X#1# {} Mult",
                     "for each {C:attention}Steel Card",
@@ -1643,7 +1644,7 @@ return {
                 },
             },
             j_stuntman={
-                name="Stuntman",
+                name="Byakuren Hijiri",
                 text={
                     "{C:chips}+#1#{} Chips,",
                     "{C:attention}-#2#{} hand size",
