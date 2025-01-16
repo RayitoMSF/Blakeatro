@@ -518,7 +518,7 @@ return {
                 },
             },
             j_blackboard={
-                name="Blackboard",
+                name="Keine Kamishirasawa",
                 text={
                     "{X:red,C:white} X#1# {} Mult if all",
                     "cards held in hand",
@@ -689,6 +689,8 @@ return {
             j_certificate={
                 name="Certificate",
                 text={
+                    "{C:inactive}I know that's NOT a certificate,",
+                    "{C:inactive}shut up",
                     "When round begins,",
                     "add a random {C:attention}playing",
                     "{C:attention}card{} with a random",
@@ -767,9 +769,8 @@ return {
                 },
             },
             j_delayed_grat={
-                name="YOU HAD BOMBS!",
+                name="YOU HAD BOMB!",
                 text={
-                    "{C:inactive}Yeah sure, you were gonna capture that spell card",
                     "Earn {C:money}$#1#{} per {C:attention}discard{} if",
                     "no discards are used",
                     "by end of the round",
@@ -955,7 +956,7 @@ return {
                 },
             },
             j_glass={
-                name="Glass Joker",
+                name="Glass Blake",
                 text={
                     "This Joker gains {X:mult,C:white} X#1# {} Mult",
                     "for every {C:attention}Glass Card",
@@ -1337,7 +1338,7 @@ return {
                 },
             },
             j_perkeo={
-                name="Perkeo",
+                name="Seija Kijin",
                 text={
                     "Creates a {C:dark_edition}Negative{} copy of",
                     "{C:attention}1{} random {C:attention}consumable{}",
@@ -1626,7 +1627,7 @@ return {
                 },
             },
             j_stencil={
-                name="Joker Stencil",
+                name="Blonkler Stencil",
                 text={
                     "{X:red,C:white} X1 {} Mult for each",
                     "empty {C:attention}Joker{} slot",
@@ -1760,7 +1761,7 @@ return {
                 },
             },
             j_trio={
-                name="The Trio",
+                name="The Triple Baka Squad",
                 text={
                     "{X:mult,C:white} X#1# {} Mult if played",
                     "hand contains",
