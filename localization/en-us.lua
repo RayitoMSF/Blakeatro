@@ -970,7 +970,7 @@ return {
                 },
             },
             j_gluttenous_joker={
-                name="Gluttonous Joker",
+                name="Yuyuko Saigyouji",
                 text={
                     "Played cards with",
                     "{C:clubs}#2#{} suit give",
@@ -985,7 +985,7 @@ return {
                 },
             },
             j_greedy_joker={
-                name="Greedy Joker",
+                name="Joon Yorigami",
                 text={
                     "Played cards with",
                     "{C:diamonds}#2#{} suit give",
@@ -1161,7 +1161,7 @@ return {
                 },
             },
             j_lusty_joker={
-                name="Lusty Joker",
+                name="Hisami Yomotsu",
                 text={
                     "Played cards with",
                     "{C:hearts}#2#{} suit give",
@@ -1849,7 +1849,7 @@ return {
                 },
             },
             j_wrathful_joker={
-                name="Wrathful Joker",
+                name="Junko",
                 text={
                     "Played cards with",
                     "{C:spades}#2#{} suit give",
