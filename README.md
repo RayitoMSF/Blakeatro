@@ -7,7 +7,6 @@ Texturepack for Balatro that replaces vanilla Jokers with Blake Izayoi and Touho
 - Extract the mod to your mods folder (%appdata%/Balatro/Mods)
 
 # Credits (Special Thanks)
-Shoutouts to:
 -Blake Izayoi
 -Jo (@jo_its_just_jo)
 -SWK_MRYA
