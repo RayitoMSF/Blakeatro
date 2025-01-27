@@ -945,9 +945,8 @@ return {
                 },
             },
             j_gift={
-                name="Torashiro Beimu",
+                name="Festive Blake",
                 text={
-                    "{C:inactive}Not to be confused with Blue Reimu",
                     "Add {C:money}$#1#{} of {C:attention}sell value",
                     "to every {C:attention}Joker{} and",
                     "{C:attention}Consumable{} card at",
@@ -1602,7 +1601,7 @@ return {
                 },
             },
             j_splash={
-                name="Splash",
+                name="Wakasagihime",
                 text={
                     "Every {C:attention}played card",
                     "counts in scoring",
@@ -3444,8 +3443,6 @@ return {
             Blake_credits_SWK = "SWK_MRYA",
             Blake_credits_Elise = "Elisabeth Scarlet",
             Blake_credits_PurpleSpie = "PurpleSpie",
-            Blake_credits_Beimu = "Torashiro Beimu",
-            Blake_credits_Kitt = "Kitt (@KittFishy)",
             Blake_credits_krysnt = "anettcryolite",
             Blake_credits_Line = "",
             Blake_credits_ZUN = "Most characters portrayed in this mod belong to Team Shanghai Alice (ZUN)",
