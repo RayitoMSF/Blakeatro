@@ -106,42 +106,6 @@ SMODS.current_mod.extra_tabs = function()
               }
             },
             {
-                n = G.UIT.R,
-                config = {
-                  padding = 0,
-                  align = "cm"
-                },
-                nodes = {
-                  {
-                    n = G.UIT.T,
-                    config = {
-                      text = localize("Blake_credits_Beimu"),
-                      shadow = true,
-                      scale = scale * 0.8,
-                      colour = G.C.UI.TEXT_LIGHT
-                    }
-                  }
-                }
-            },
-            {
-              n = G.UIT.R,
-              config = {
-                padding = 0,
-                align = "cm"
-              },
-              nodes = {
-                {
-                  n = G.UIT.T,
-                  config = {
-                    text = localize("Blake_credits_Kitt"),
-                    shadow = true,
-                    scale = scale * 0.8,
-                    colour = G.C.UI.TEXT_LIGHT
-                  }
-                }
-              }
-          },  
-            {
               n = G.UIT.R,
               config = {
                 padding = 0,
