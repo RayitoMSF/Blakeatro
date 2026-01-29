@@ -12,6 +12,6 @@ Texturepack for Balatro that replaces vanilla Jokers with Blake Izayoi and Touho
 - SWK_MRYA
 - Elisabeth Scarlet
 - PurpleSpie
-- anettcryolite
+- Krysnt
 
 - Most characters portrayed in this mod belong to Team Shanghai Alice (ZUN)
